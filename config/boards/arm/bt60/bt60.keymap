@@ -29,7 +29,7 @@
 				&trans        &trans          &kp UP          &trans        &trans    &trans    &trans    &trans    &trans       &trans      &kp PSCRN     &trans        &trans             &kp DEL
 				&kp CLCK      &kp LEFT        &kp DOWN        &kp RIGHT     &trans    &trans    &trans    &trans    &trans       &trans      &trans        &trans        &trans
 				&trans        &trans          &trans          &trans        &trans    &trans    &trans    &trans    &trans       &trans      &trans        &trans        &trans
-				&trans        &trans          &trans                                                      &trans                                           &trans        &trans             &trans
+				&trans        &trans          &trans                                                      &trans                                           &trans        &trans             &BT_CLR
 			>;
 			sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
 		};
